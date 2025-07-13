@@ -8,7 +8,7 @@ Smart Assign is basically like having a fair manager who automatically gives tas
 # How I built it
 Here's the simple logic :
 
-# Technology: 
+# Tech Stack: 
 - Frontend: React.js (no UI libraries), CSS , Socket.IO client
 - Backend: Node.js, Express.js, MongoDB, Mongoose, Socket.IO server
 - Authentication: JWT + Bcrypt for hashing passwords
