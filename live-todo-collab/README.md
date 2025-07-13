@@ -2,7 +2,9 @@
 
 # Project info
 
-Project URL : https://lovable.dev/projects/f69e5bcc-e83a-414c-b01b-b09849cc76b7
+Project URL : https://todee-steel.vercel.app/
+
+#Note : Use Versal for easily deploy the project.
 
 # How can I edit this code?
 
@@ -10,7 +12,7 @@ There are several ways of editing your application anf firstly SignUp In Project
 
 *Use Project*
 
-Simply visit the Project for their need: { URL }: 
+Simply visit the Project for their need: { URL: https://todee-steel.vercel.app/ }: 
 
 Changes made via project will be committed automatically to this repo.
 
@@ -63,6 +65,6 @@ This project is built with:
 
 # How can I deploy this project?
 
-Simply open [Netlify](https://lovable.dev/projects/f69e5bcc-e83a-414c-b01b-b09849cc76b7) and Drag-Drop the my Project Folder.
+Simply open [Versal](https://todee-steel.vercel.app/) and Drag-Drop the my Project Folder.
 
 
