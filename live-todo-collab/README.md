@@ -3,6 +3,7 @@
 # Project info
 
 Project URL : https://todee-steel.vercel.app/
+Video Link : https://drive.google.com/file/d/1Qf2xVCmGJMa8kBi3JiaXA0bH8_qd2BuK/view?usp=drivesdk 
 
 #Note : Use Versal for easily deploy the project.
 
